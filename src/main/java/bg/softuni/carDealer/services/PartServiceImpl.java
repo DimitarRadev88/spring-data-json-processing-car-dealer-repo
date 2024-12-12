@@ -1,6 +1,6 @@
 package bg.softuni.carDealer.services;
 
-import bg.softuni.carDealer.dots.PartImportDto;
+import bg.softuni.carDealer.dtos.PartImportDto;
 import bg.softuni.carDealer.models.Part;
 import bg.softuni.carDealer.models.Supplier;
 import bg.softuni.carDealer.repositories.PartRepository;

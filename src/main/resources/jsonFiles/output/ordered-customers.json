@@ -1,0 +1,5970 @@
+[
+  {
+    "Id": 29,
+    "Name": "Louann Holzworth",
+    "BirthDate": "1960-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": [
+      {
+        "Car": {
+          "Make": "Ferrari",
+          "Model": "275",
+          "TravelledDistance": 92854775807
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Ford",
+          "Model": "GT40",
+          "TravelledDistance": 9223377
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "Versa",
+          "TravelledDistance": 9223775807
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Renault",
+          "Model": "Clio IV",
+          "TravelledDistance": 92234775807
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "GT-R",
+          "TravelledDistance": 21477
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Seat",
+          "Model": "Mii",
+          "TravelledDistance": 21447
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Citroen",
+          "Model": "C1",
+          "TravelledDistance": 2147483647
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Lamborghini",
+          "Model": "Gallardo",
+          "TravelledDistance": 92234775807
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Lamborghini",
+          "Model": "Gallardo",
+          "TravelledDistance": 92234775807
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "370Z",
+          "TravelledDistance": 21447
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "370Z",
+          "TravelledDistance": 21447
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Chevy",
+          "Model": "Impala",
+          "TravelledDistance": 214747
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Mercedes",
+          "Model": "A 140",
+          "TravelledDistance": 92233754775807
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "Rogue",
+          "TravelledDistance": 9223807
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "370Z",
+          "TravelledDistance": 21447
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Citroen",
+          "Model": "C5",
+          "TravelledDistance": 213647
+        },
+        "Discount": "PERCENT20"
+      }
+    ]
+  },
+  {
+    "Id": 28,
+    "Name": "Donnetta Soliz",
+    "BirthDate": "1963-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "Car": {
+          "Make": "Dacia",
+          "Model": "Logan",
+          "TravelledDistance": 213647
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Prius",
+          "TravelledDistance": 922337207
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "GT-R",
+          "TravelledDistance": 2143647
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Camry Hybrid",
+          "TravelledDistance": 2143647
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Chevy",
+          "Model": "Malibu",
+          "TravelledDistance": 92233854775807
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "GT-R",
+          "TravelledDistance": 2143647
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Opel",
+          "Model": "Astra",
+          "TravelledDistance": 922336854775807
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Fiat",
+          "Model": "Freemont",
+          "TravelledDistance": 21473647
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Chevy",
+          "Model": "Caprice",
+          "TravelledDistance": 2147647
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Lamborghini",
+          "Model": "Gallardo",
+          "TravelledDistance": 923372054775807
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Great Wall",
+          "Model": "H2",
+          "TravelledDistance": 21647
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Ford",
+          "Model": "Fiesta",
+          "TravelledDistance": 922375807
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Rolls-Royce",
+          "Model": "Ghost",
+          "TravelledDistance": 21473647
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "BMW",
+          "Model": "1M Coupe",
+          "TravelledDistance": 2147
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Alfa Romeo",
+          "Model": "156",
+          "TravelledDistance": 92233720368547
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Ferrari",
+          "Model": "275",
+          "TravelledDistance": 92854775807
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Opel",
+          "Model": "Corsa",
+          "TravelledDistance": 2147483647
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Ferrari",
+          "Model": "275",
+          "TravelledDistance": 92854775807
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Dacia",
+          "Model": "Logan",
+          "TravelledDistance": 9036854775807
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Ferrari",
+          "Model": "250 GTO",
+          "TravelledDistance": 2183647
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Dacia",
+          "Model": "Sandero",
+          "TravelledDistance": 2143647
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Fiat",
+          "Model": "Panda 4x4 Antarctica",
+          "TravelledDistance": 214747
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Chevy",
+          "Model": "Caprice",
+          "TravelledDistance": 2147483647
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Seat",
+          "Model": "Toledo",
+          "TravelledDistance": 21483647
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Tacoma",
+          "TravelledDistance": 2147
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "GT-R",
+          "TravelledDistance": 2147483647
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "Altima",
+          "TravelledDistance": 214647
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Ford",
+          "Model": "Torino",
+          "TravelledDistance": 2147
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Ferrari",
+          "Model": "Daytona",
+          "TravelledDistance": 922337275807
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Peugeot",
+          "Model": "306",
+          "TravelledDistance": 2147483647
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Skoda",
+          "Model": "Fabia",
+          "TravelledDistance": 92233720368807
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Great Wall",
+          "Model": "Haval M4",
+          "TravelledDistance": 9223372035807
+        },
+        "Discount": "PERCENT40"
+      }
+    ]
+  },
+  {
+    "Id": 17,
+    "Name": "Rema Revelle",
+    "BirthDate": "1970-05-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Camry Hybrid",
+          "TravelledDistance": 214647
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Citroen",
+          "Model": "C1",
+          "TravelledDistance": 2147
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Citroen",
+          "Model": "C3",
+          "TravelledDistance": 2147647
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Mercedes",
+          "Model": "W203",
+          "TravelledDistance": 5807
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Corolla",
+          "TravelledDistance": 21477
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Renault",
+          "Model": "Captur",
+          "TravelledDistance": 92233724775807
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Chevy",
+          "Model": "Camaro",
+          "TravelledDistance": 283647
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Yaris",
+          "TravelledDistance": 9207
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Citroen",
+          "Model": "C8",
+          "TravelledDistance": 83647
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Seat",
+          "Model": "Mii",
+          "TravelledDistance": 936854775807
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Renault",
+          "Model": "Alaskan",
+          "TravelledDistance": 92807
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Peugeot",
+          "Model": "306",
+          "TravelledDistance": 21474647
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Dacia",
+          "Model": "Sandero",
+          "TravelledDistance": 922337254775807
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Skoda",
+          "Model": "Rapid",
+          "TravelledDistance": 9223372775807
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Dacia",
+          "Model": "Sandero Stepway",
+          "TravelledDistance": 92233724775807
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Tacoma",
+          "TravelledDistance": 922337807
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Peugeot",
+          "Model": "405",
+          "TravelledDistance": 92036854775807
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Dacia",
+          "Model": "Dokker",
+          "TravelledDistance": 2147447
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Dacia",
+          "Model": "Logan",
+          "TravelledDistance": 213647
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Fiat",
+          "Model": "500L",
+          "TravelledDistance": 922337204775807
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Camry Hybrid",
+          "TravelledDistance": 214647
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "Rogue",
+          "TravelledDistance": 214647
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Prius",
+          "TravelledDistance": 21477
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Prius",
+          "TravelledDistance": 925807
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Mercedes",
+          "Model": "A 160",
+          "TravelledDistance": 9223372036
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Dacia",
+          "Model": "Dokker",
+          "TravelledDistance": 2147447
+        },
+        "Discount": "PERCENT20"
+      }
+    ]
+  },
+  {
+    "Id": 16,
+    "Name": "Carri Knapik",
+    "BirthDate": "1972-02-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "Altima",
+          "TravelledDistance": 92233707
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Seat",
+          "Model": "Toledo",
+          "TravelledDistance": 21483647
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Dacia",
+          "Model": "Sandero Stepway",
+          "TravelledDistance": 92233724775807
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Mercedes",
+          "Model": "W204",
+          "TravelledDistance": 9285807
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Seat",
+          "Model": "Mii",
+          "TravelledDistance": 2147447
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Alfa Romeo",
+          "Model": "Giulietta",
+          "TravelledDistance": 21474847
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Ford",
+          "Model": "Fiesta",
+          "TravelledDistance": 214647
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Ferrari",
+          "Model": "Daytona",
+          "TravelledDistance": 2147447
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Ford",
+          "Model": "GT40",
+          "TravelledDistance": 9223377
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Mercedes",
+          "Model": "A 140",
+          "TravelledDistance": 92233754775807
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "Altima",
+          "TravelledDistance": 2147447
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Rolls-Royce",
+          "Model": "Wraith",
+          "TravelledDistance": 21647
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Alfa Romeo",
+          "Model": "Giulietta",
+          "TravelledDistance": 2036854775807
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Citroen",
+          "Model": "Elysée",
+          "TravelledDistance": 23336854775
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Mercedes",
+          "Model": "W212",
+          "TravelledDistance": 927
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "GT-R",
+          "TravelledDistance": 23647
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Mercedes",
+          "Model": "A 170 CDI",
+          "TravelledDistance": 9223775807
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Renault",
+          "Model": "Alaskan",
+          "TravelledDistance": 2147483647
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Fiat",
+          "Model": "Panda 4x4",
+          "TravelledDistance": 2147447
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Citroen",
+          "Model": "C3",
+          "TravelledDistance": 2147647
+        },
+        "Discount": "PERCENT5"
+      }
+    ]
+  },
+  {
+    "Id": 27,
+    "Name": "Garret Capron",
+    "BirthDate": "1975-07-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": [
+      {
+        "Car": {
+          "Make": "Ferrari",
+          "Model": "F40",
+          "TravelledDistance": 2647
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Alfa Romeo",
+          "Model": "Alfetta",
+          "TravelledDistance": 92233720775807
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Mercedes",
+          "Model": "W202",
+          "TravelledDistance": 2147647
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Ford",
+          "Model": "Ranger",
+          "TravelledDistance": 9223372007
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Peugeot",
+          "Model": "407",
+          "TravelledDistance": 854775807
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Seat",
+          "Model": "Toledo",
+          "TravelledDistance": 21483647
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Dacia",
+          "Model": "Dokker",
+          "TravelledDistance": 213647
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Opel",
+          "Model": "Corsa",
+          "TravelledDistance": 2147483647
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Tacoma",
+          "TravelledDistance": 927
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Opel",
+          "Model": "Vectra",
+          "TravelledDistance": 2147483647
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "Rogue",
+          "TravelledDistance": 9223807
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Citroen",
+          "Model": "C5",
+          "TravelledDistance": 213647
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Opel",
+          "Model": "Kadet",
+          "TravelledDistance": 21474847
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Alfa Romeo",
+          "Model": "75",
+          "TravelledDistance": 9775807
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Skoda",
+          "Model": "Fabia",
+          "TravelledDistance": 214647
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Ford",
+          "Model": "Taurus",
+          "TravelledDistance": 21473647
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "370Z",
+          "TravelledDistance": 922775807
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Ford",
+          "Model": "Pinto",
+          "TravelledDistance": 922337807
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Corolla",
+          "TravelledDistance": 975807
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Citroen",
+          "Model": "C5",
+          "TravelledDistance": 2147483647
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Seat",
+          "Model": "Mii",
+          "TravelledDistance": 936854775807
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Chevy",
+          "Model": "Camaro",
+          "TravelledDistance": 21473647
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Fiat",
+          "Model": "500L",
+          "TravelledDistance": 922337203675807
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Ferrari",
+          "Model": "Daytona",
+          "TravelledDistance": 213647
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Chevy",
+          "Model": "Corvette",
+          "TravelledDistance": 21474847
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Ford",
+          "Model": "Fiesta",
+          "TravelledDistance": 214647
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "Versa",
+          "TravelledDistance": 9223775807
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "GT-R",
+          "TravelledDistance": 21477
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Ford",
+          "Model": "Fiesta",
+          "TravelledDistance": 214647
+        },
+        "Discount": "PERCENT5"
+      }
+    ]
+  },
+  {
+    "Id": 8,
+    "Name": "Teddy Hobby",
+    "BirthDate": "1975-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "Car": {
+          "Make": "Ferrari",
+          "Model": "F40",
+          "TravelledDistance": 21447
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Skoda",
+          "Model": "Fabia",
+          "TravelledDistance": 92233720368807
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Tacoma",
+          "TravelledDistance": 96854775807
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Ford",
+          "Model": "Pinto",
+          "TravelledDistance": 922337203
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Camry Hybrid",
+          "TravelledDistance": 214647
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Rolls-Royce",
+          "Model": "Wraith",
+          "TravelledDistance": 21647
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Fiat",
+          "Model": "500L",
+          "TravelledDistance": 21474847
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Mercedes",
+          "Model": "W210",
+          "TravelledDistance": 2147483647
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Dacia",
+          "Model": "Sandero Stepway",
+          "TravelledDistance": 92233724775807
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Citroen",
+          "Model": "C3",
+          "TravelledDistance": 2147647
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Peugeot",
+          "Model": "405",
+          "TravelledDistance": 92236854775807
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Renault",
+          "Model": "Duster",
+          "TravelledDistance": 922337203685807
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Dacia",
+          "Model": "Sandero Stepway",
+          "TravelledDistance": 92233724775807
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Opel",
+          "Model": "Astra",
+          "TravelledDistance": 922336854775807
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Mercedes",
+          "Model": "W212",
+          "TravelledDistance": 927254775807
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Ford",
+          "Model": "Pinto",
+          "TravelledDistance": 214647
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Seat",
+          "Model": "Toledo",
+          "TravelledDistance": 2147447
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Rolls-Royce",
+          "Model": "Phantom Drophead Coupé",
+          "TravelledDistance": 92233775807
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Fiat",
+          "Model": "500L",
+          "TravelledDistance": 922337204775807
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Ferrari",
+          "Model": "275",
+          "TravelledDistance": 214647
+        },
+        "Discount": "PERCENT5"
+      }
+    ]
+  },
+  {
+    "Id": 10,
+    "Name": "Audrea Cardinal",
+    "BirthDate": "1976-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": [
+      {
+        "Car": {
+          "Make": "Great Wall",
+          "Model": "H2",
+          "TravelledDistance": 9236854775807
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Chevy",
+          "Model": "Camaro",
+          "TravelledDistance": 21473647
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Peugeot",
+          "Model": "405",
+          "TravelledDistance": 92036854775807
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "GT-R",
+          "TravelledDistance": 21473647
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Seat",
+          "Model": "Mii",
+          "TravelledDistance": 2147447
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "BMW",
+          "Model": "F04",
+          "TravelledDistance": 2143647
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Dacia",
+          "Model": "Sandero Stepway",
+          "TravelledDistance": 922337807
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Prius",
+          "TravelledDistance": 214747
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Fiat",
+          "Model": "Panda",
+          "TravelledDistance": 21474837
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Peugeot",
+          "Model": "308",
+          "TravelledDistance": 2147483647
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Fiat",
+          "Model": "Panda",
+          "TravelledDistance": 21447
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Prius",
+          "TravelledDistance": 925807
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Lamborghini",
+          "Model": "Diablo",
+          "TravelledDistance": 2147483647
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "370Z",
+          "TravelledDistance": 922337205807
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Mercedes",
+          "Model": "A 170 CDI",
+          "TravelledDistance": 9223775807
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "Altima",
+          "TravelledDistance": 9223372775807
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "GT-R",
+          "TravelledDistance": 21473647
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Opel",
+          "Model": "Omega",
+          "TravelledDistance": 2147483647
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Renault",
+          "Model": "Alaskan",
+          "TravelledDistance": 92233720375807
+        },
+        "Discount": "PERCENT10"
+      }
+    ]
+  },
+  {
+    "Id": 11,
+    "Name": "Francis Mckim",
+    "BirthDate": "1977-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "Car": {
+          "Make": "Seat",
+          "Model": "Mii",
+          "TravelledDistance": 936854775807
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Ferrari",
+          "Model": "F430",
+          "TravelledDistance": 2147647
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Great Wall",
+          "Model": "Steed 3",
+          "TravelledDistance": 922336854775807
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Chevy",
+          "Model": "Camaro",
+          "TravelledDistance": 92233854775807
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Alfa Romeo",
+          "Model": "Giulietta",
+          "TravelledDistance": 2036854775807
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Seat",
+          "Model": "Toledo",
+          "TravelledDistance": 21447
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "GT-R",
+          "TravelledDistance": 21477
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "BMW",
+          "Model": "X6 M",
+          "TravelledDistance": 483647
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Lamborghini",
+          "Model": "Gallardo",
+          "TravelledDistance": 92234775807
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "370Z",
+          "TravelledDistance": 21447
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Opel",
+          "Model": "Astra",
+          "TravelledDistance": 9223372036854775807
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "Versa",
+          "TravelledDistance": 2143647
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Peugeot",
+          "Model": "405",
+          "TravelledDistance": 92236854775807
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Chevy",
+          "Model": "Caprice",
+          "TravelledDistance": 2147647
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Renault",
+          "Model": "Espace",
+          "TravelledDistance": 9223375807
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Mercedes",
+          "Model": "W124",
+          "TravelledDistance": 922336854775807
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Mercedes",
+          "Model": "W212",
+          "TravelledDistance": 2147647
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Seat",
+          "Model": "Mii",
+          "TravelledDistance": 214747
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Seat",
+          "Model": "Mii",
+          "TravelledDistance": 21447
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Seat",
+          "Model": "Toledo",
+          "TravelledDistance": 21483647
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Chevy",
+          "Model": "Caprice",
+          "TravelledDistance": 2147647
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Dacia",
+          "Model": "Logan",
+          "TravelledDistance": 9036854775807
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Opel",
+          "Model": "Insignia",
+          "TravelledDistance": 2147483647
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Corolla",
+          "TravelledDistance": 975807
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Skoda",
+          "Model": "Fabia",
+          "TravelledDistance": 214747
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Citroen",
+          "Model": "C1",
+          "TravelledDistance": 9223775807
+        },
+        "Discount": "PERCENT0"
+      }
+    ]
+  },
+  {
+    "Id": 14,
+    "Name": "Brett Brickley",
+    "BirthDate": "1980-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "Car": {
+          "Make": "Opel",
+          "Model": "Omega",
+          "TravelledDistance": 9223336854775807
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Alfa Romeo",
+          "Model": "Giulietta",
+          "TravelledDistance": 21474847
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Chevy",
+          "Model": "Corvette",
+          "TravelledDistance": 21474847
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Ferrari",
+          "Model": "Daytona",
+          "TravelledDistance": 92036854775807
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Seat",
+          "Model": "Mii",
+          "TravelledDistance": 92236854775807
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Opel",
+          "Model": "Corsa",
+          "TravelledDistance": 2147483647
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Camry Hybrid",
+          "TravelledDistance": 214647
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Dacia",
+          "Model": "Sandero Stepway",
+          "TravelledDistance": 92233724775807
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "BMW",
+          "Model": "E88",
+          "TravelledDistance": 200000
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "BMW",
+          "Model": "F20",
+          "TravelledDistance": 83647
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Ford",
+          "Model": "Ranger",
+          "TravelledDistance": 9223372007
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "Versa",
+          "TravelledDistance": 922775807
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Mercedes",
+          "Model": "W212",
+          "TravelledDistance": 54775807
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Lamborghini",
+          "Model": "Diablo",
+          "TravelledDistance": 283647
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Chevy",
+          "Model": "Camaro",
+          "TravelledDistance": 2147487
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Citroen",
+          "Model": "C4",
+          "TravelledDistance": 92236854775807
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Mercedes",
+          "Model": "W202",
+          "TravelledDistance": 2147647
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Fiat",
+          "Model": "Panda 4x4",
+          "TravelledDistance": 922036854775807
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Prius",
+          "TravelledDistance": 283647
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Chevy",
+          "Model": "Caprice",
+          "TravelledDistance": 2147483647
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Dacia",
+          "Model": "Duster",
+          "TravelledDistance": 21447
+        },
+        "Discount": "PERCENT0"
+      }
+    ]
+  },
+  {
+    "Id": 15,
+    "Name": "Kristian Engberg",
+    "BirthDate": "1981-10-03T00:00",
+    "IsYoungDriver": false,
+    "Sales": [
+      {
+        "Car": {
+          "Make": "BMW",
+          "Model": "M5 F10",
+          "TravelledDistance": 10
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Dacia",
+          "Model": "Sandero",
+          "TravelledDistance": 2143647
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Alfa Romeo",
+          "Model": "AR51",
+          "TravelledDistance": 2147483647
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "BMW",
+          "Model": "M5 F10",
+          "TravelledDistance": 27483647
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "BMW",
+          "Model": "M6 E63",
+          "TravelledDistance": 214747
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Skoda",
+          "Model": "Rapid",
+          "TravelledDistance": 9223372775807
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Citroen",
+          "Model": "C1",
+          "TravelledDistance": 922336854775807
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Dacia",
+          "Model": "Dokker",
+          "TravelledDistance": 2147447
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Renault",
+          "Model": "Espace",
+          "TravelledDistance": 9223375807
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Yaris",
+          "TravelledDistance": 9207
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Tacoma",
+          "TravelledDistance": 2147
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Fiat",
+          "Model": "500L",
+          "TravelledDistance": 922337203675807
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Mercedes",
+          "Model": "W212",
+          "TravelledDistance": 2183647
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Ferrari",
+          "Model": "275",
+          "TravelledDistance": 2147647
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Ferrari",
+          "Model": "Enzo",
+          "TravelledDistance": 2147483647
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Opel",
+          "Model": "Insignia",
+          "TravelledDistance": 2147483647
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Alfa Romeo",
+          "Model": "Giulietta",
+          "TravelledDistance": 21474847
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Peugeot",
+          "Model": "306",
+          "TravelledDistance": 2036854775807
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Citroen",
+          "Model": "C3",
+          "TravelledDistance": 214647
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Fiat",
+          "Model": "500 (2007) Abarth 695 Tributo Maserati",
+          "TravelledDistance": 922337205807
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Peugeot",
+          "Model": "308",
+          "TravelledDistance": 2147483647
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Alfa Romeo",
+          "Model": "AR51",
+          "TravelledDistance": 2147483647
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Fiat",
+          "Model": "500L",
+          "TravelledDistance": 922337203675807
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Dacia",
+          "Model": "Dokker",
+          "TravelledDistance": 213647
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Citroen",
+          "Model": "C4",
+          "TravelledDistance": 2147487
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Tacoma",
+          "TravelledDistance": 247
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Opel",
+          "Model": "Astra",
+          "TravelledDistance": 922336854775807
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Prius",
+          "TravelledDistance": 92233775807
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Citroen",
+          "Model": "Berlingo",
+          "TravelledDistance": 9223354775807
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "Rogue",
+          "TravelledDistance": 214647
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Seat",
+          "Model": "Toledo",
+          "TravelledDistance": 2147647
+        },
+        "Discount": "PERCENT5"
+      }
+    ]
+  },
+  {
+    "Id": 26,
+    "Name": "Hipolito Lamoreaux",
+    "BirthDate": "1982-08-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "Car": {
+          "Make": "Rolls-Royce",
+          "Model": "Phantom",
+          "TravelledDistance": 922337254775807
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Peugeot",
+          "Model": "206",
+          "TravelledDistance": 214748347
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Opel",
+          "Model": "Insignia",
+          "TravelledDistance": 9223372036854775807
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Camry Hybrid",
+          "TravelledDistance": 954775807
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "GT-R",
+          "TravelledDistance": 96854775807
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Ford",
+          "Model": "Torino",
+          "TravelledDistance": 217
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Citroen",
+          "Model": "C4",
+          "TravelledDistance": 213647
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Seat",
+          "Model": "Mii",
+          "TravelledDistance": 214747
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Opel",
+          "Model": "Astra",
+          "TravelledDistance": 9223372036854775807
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Opel",
+          "Model": "Vectra",
+          "TravelledDistance": 9223372854775807
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Peugeot",
+          "Model": "308",
+          "TravelledDistance": 23647
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Camry Hybrid",
+          "TravelledDistance": 2143647
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "370Z",
+          "TravelledDistance": 2143647
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "Versa",
+          "TravelledDistance": 9223775807
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Chevy",
+          "Model": "Caprice",
+          "TravelledDistance": 2143647
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "Versa",
+          "TravelledDistance": 922775807
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Opel",
+          "Model": "Omega",
+          "TravelledDistance": 9223336854775807
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Alfa Romeo",
+          "Model": "Giulietta",
+          "TravelledDistance": 21474847
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Ford",
+          "Model": "Pinto",
+          "TravelledDistance": 9223807
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Opel",
+          "Model": "Astra",
+          "TravelledDistance": 922337203685807
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Rolls-Royce",
+          "Model": "Phantom",
+          "TravelledDistance": 2147483647
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Peugeot",
+          "Model": "206",
+          "TravelledDistance": 214647
+        },
+        "Discount": "PERCENT20"
+      }
+    ]
+  },
+  {
+    "Id": 4,
+    "Name": "Zada Attwood",
+    "BirthDate": "1982-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "Car": {
+          "Make": "Skoda",
+          "Model": "Citigo",
+          "TravelledDistance": 92233854775807
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Mercedes",
+          "Model": "W202",
+          "TravelledDistance": 2147647
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Dacia",
+          "Model": "Logan",
+          "TravelledDistance": 9275807
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "BMW",
+          "Model": "E88",
+          "TravelledDistance": 200000
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Rolls-Royce",
+          "Model": "Wraith",
+          "TravelledDistance": 2147483647
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Citroen",
+          "Model": "Berlingo",
+          "TravelledDistance": 922354775807
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Chevy",
+          "Model": "Malibu",
+          "TravelledDistance": 92233854775807
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Mercedes",
+          "Model": "W202",
+          "TravelledDistance": 92233754775807
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Citroen",
+          "Model": "C1",
+          "TravelledDistance": 2483647
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Alfa Romeo",
+          "Model": "Giulietta",
+          "TravelledDistance": 2036854775807
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Opel",
+          "Model": "Kadet",
+          "TravelledDistance": 21474847
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Dacia",
+          "Model": "Sandero",
+          "TravelledDistance": 2147647
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Peugeot",
+          "Model": "407",
+          "TravelledDistance": 922036854775807
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "Altima",
+          "TravelledDistance": 213647
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Great Wall",
+          "Model": "H8",
+          "TravelledDistance": 21447
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Seat",
+          "Model": "Mii",
+          "TravelledDistance": 936854775807
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Renault",
+          "Model": "Alaskan",
+          "TravelledDistance": 2147483647
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Camry Hybrid",
+          "TravelledDistance": 214647
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "Altima",
+          "TravelledDistance": 2147
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Mercedes",
+          "Model": "W202",
+          "TravelledDistance": 2147647
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Ford",
+          "Model": "GT40",
+          "TravelledDistance": 92233775807
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Dacia",
+          "Model": "Sandero",
+          "TravelledDistance": 2143647
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Fiat",
+          "Model": "Panda",
+          "TravelledDistance": 92233854775807
+        },
+        "Discount": "PERCENT40"
+      }
+    ]
+  },
+  {
+    "Id": 25,
+    "Name": "Sylvie Mcelravy",
+    "BirthDate": "1983-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": [
+      {
+        "Car": {
+          "Make": "Lamborghini",
+          "Model": "Murciélago",
+          "TravelledDistance": 214783647
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Chevy",
+          "Model": "Camaro",
+          "TravelledDistance": 2147483647
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Citroen",
+          "Model": "C8",
+          "TravelledDistance": 2147447
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Ford",
+          "Model": "Torino",
+          "TravelledDistance": 922337807
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Peugeot",
+          "Model": "407",
+          "TravelledDistance": 922036854775807
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Citroen",
+          "Model": "C5",
+          "TravelledDistance": 2147483647
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Corolla",
+          "TravelledDistance": 9223807
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Dacia",
+          "Model": "Logan",
+          "TravelledDistance": 922337203687
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Mercedes",
+          "Model": "W212",
+          "TravelledDistance": 2147647
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Camry Hybrid",
+          "TravelledDistance": 214647
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Mercedes",
+          "Model": "W202",
+          "TravelledDistance": 2147647
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Prius",
+          "TravelledDistance": 214747
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Mercedes",
+          "Model": "A 140",
+          "TravelledDistance": 92233754775807
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Peugeot",
+          "Model": "306",
+          "TravelledDistance": 2147483647
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "Versa",
+          "TravelledDistance": 922775807
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Mercedes",
+          "Model": "W210",
+          "TravelledDistance": 9223372036854775807
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Tacoma",
+          "TravelledDistance": 9225807
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Peugeot",
+          "Model": "206",
+          "TravelledDistance": 922036854775807
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Great Wall",
+          "Model": "Haval M4",
+          "TravelledDistance": 213647
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Lamborghini",
+          "Model": "Gallardo",
+          "TravelledDistance": 9223372054775807
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Seat",
+          "Model": "Ibiza",
+          "TravelledDistance": 92234775807
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Dacia",
+          "Model": "Logan",
+          "TravelledDistance": 9036854775807
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Camry Hybrid",
+          "TravelledDistance": 214647
+        },
+        "Discount": "PERCENT10"
+      }
+    ]
+  },
+  {
+    "Id": 7,
+    "Name": "Rico Peer",
+    "BirthDate": "1984-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "Car": {
+          "Make": "Renault",
+          "Model": "Duster",
+          "TravelledDistance": 922337203685807
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "BMW",
+          "Model": "X6 M",
+          "TravelledDistance": 483647
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Ford",
+          "Model": "Taurus",
+          "TravelledDistance": 21473647
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Opel",
+          "Model": "Corsa",
+          "TravelledDistance": 21474847
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Citroen",
+          "Model": "Elysée",
+          "TravelledDistance": 23336854775
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Corolla",
+          "TravelledDistance": 975807
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Citroen",
+          "Model": "C5",
+          "TravelledDistance": 213647
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Skoda",
+          "Model": "Citigo",
+          "TravelledDistance": 214747
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Lamborghini",
+          "Model": "Diablo",
+          "TravelledDistance": 283647
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Peugeot",
+          "Model": "407",
+          "TravelledDistance": 922036854775807
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Citroen",
+          "Model": "C5",
+          "TravelledDistance": 213647
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Fiat",
+          "Model": "Panda",
+          "TravelledDistance": 21474837
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Chevy",
+          "Model": "Camaro",
+          "TravelledDistance": 2147483647
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Peugeot",
+          "Model": "206",
+          "TravelledDistance": 214647
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Rolls-Royce",
+          "Model": "Phantom",
+          "TravelledDistance": 922337254775807
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Seat",
+          "Model": "Toledo",
+          "TravelledDistance": 21447
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Seat",
+          "Model": "Toledo",
+          "TravelledDistance": 2147647
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Peugeot",
+          "Model": "306",
+          "TravelledDistance": 2036854775807
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Ford",
+          "Model": "Fiesta",
+          "TravelledDistance": 214647
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Renault",
+          "Model": "Alaskan",
+          "TravelledDistance": 2147483647
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Ferrari",
+          "Model": "F40",
+          "TravelledDistance": 214647
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Mercedes",
+          "Model": "W212",
+          "TravelledDistance": 54775807
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Camry Hybrid",
+          "TravelledDistance": 2143647
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Citroen",
+          "Model": "C1",
+          "TravelledDistance": 92236854775807
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Fiat",
+          "Model": "Freemont",
+          "TravelledDistance": 214647
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Rolls-Royce",
+          "Model": "Ghost",
+          "TravelledDistance": 214747
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Ferrari",
+          "Model": "250 GTO",
+          "TravelledDistance": 2183647
+        },
+        "Discount": "PERCENT15"
+      }
+    ]
+  },
+  {
+    "Id": 5,
+    "Name": "Hai Everton",
+    "BirthDate": "1985-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Prius",
+          "TravelledDistance": 92233775807
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Alfa Romeo",
+          "Model": "75",
+          "TravelledDistance": 72036854775807
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "Versa",
+          "TravelledDistance": 922775807
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Mercedes",
+          "Model": "W210",
+          "TravelledDistance": 2147483647
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Peugeot",
+          "Model": "206",
+          "TravelledDistance": 922036854775807
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Skoda",
+          "Model": "Fabia",
+          "TravelledDistance": 214747
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Lamborghini",
+          "Model": "Gallardo",
+          "TravelledDistance": 92234775807
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "BMW",
+          "Model": "E88",
+          "TravelledDistance": 200000
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "BMW",
+          "Model": "1M Coupe",
+          "TravelledDistance": 2147
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "BMW",
+          "Model": "E67",
+          "TravelledDistance": 21447
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "BMW",
+          "Model": "F04",
+          "TravelledDistance": 483647
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Renault",
+          "Model": "Alaskan",
+          "TravelledDistance": 2147483647
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Skoda",
+          "Model": "Rapid",
+          "TravelledDistance": 2147447
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Ford",
+          "Model": "Pinto",
+          "TravelledDistance": 922337203
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "GT-R",
+          "TravelledDistance": 2143647
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Peugeot",
+          "Model": "407",
+          "TravelledDistance": 854775807
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Ford",
+          "Model": "Taurus",
+          "TravelledDistance": 9223375807
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Mercedes",
+          "Model": "W212",
+          "TravelledDistance": 2147647
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Ford",
+          "Model": "Torino",
+          "TravelledDistance": 217
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Alfa Romeo",
+          "Model": "Giulietta",
+          "TravelledDistance": 21474847
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Skoda",
+          "Model": "Rapid",
+          "TravelledDistance": 2147447
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Citroen",
+          "Model": "C4",
+          "TravelledDistance": 2147487
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Opel",
+          "Model": "Kadet",
+          "TravelledDistance": 21474847
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Renault",
+          "Model": "Duster",
+          "TravelledDistance": 922337203685807
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Citroen",
+          "Model": "C5",
+          "TravelledDistance": 922334775807
+        },
+        "Discount": "PERCENT5"
+      }
+    ]
+  },
+  {
+    "Id": 6,
+    "Name": "Lino Subia",
+    "BirthDate": "1985-12-21T00:00",
+    "IsYoungDriver": false,
+    "Sales": [
+      {
+        "Car": {
+          "Make": "Dacia",
+          "Model": "Logan",
+          "TravelledDistance": 21474647
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Fiat",
+          "Model": "Panda 4x4",
+          "TravelledDistance": 92233736854775807
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Great Wall",
+          "Model": "Haval M4",
+          "TravelledDistance": 9223372035807
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Mercedes",
+          "Model": "W203",
+          "TravelledDistance": 5807
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "BMW",
+          "Model": "X6 M",
+          "TravelledDistance": 922775807
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Rolls-Royce",
+          "Model": "Phantom",
+          "TravelledDistance": 922337254775807
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "GT-R",
+          "TravelledDistance": 2147447
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Mercedes",
+          "Model": "W212",
+          "TravelledDistance": 2183647
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Fiat",
+          "Model": "500L",
+          "TravelledDistance": 922337203675807
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "370Z",
+          "TravelledDistance": 922337205807
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Corolla",
+          "TravelledDistance": 9223854775807
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Peugeot",
+          "Model": "405",
+          "TravelledDistance": 922854775807
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Dacia",
+          "Model": "Dokker",
+          "TravelledDistance": 213647
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Chevy",
+          "Model": "Caprice",
+          "TravelledDistance": 2147647
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "Altima",
+          "TravelledDistance": 9224775807
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Lamborghini",
+          "Model": "Murciélago",
+          "TravelledDistance": 214783647
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Camry Hybrid",
+          "TravelledDistance": 214647
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Chevy",
+          "Model": "Camaro",
+          "TravelledDistance": 283647
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Dacia",
+          "Model": "Sandero",
+          "TravelledDistance": 2147647
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Citroen",
+          "Model": "C8",
+          "TravelledDistance": 2147447
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Seat",
+          "Model": "Ibiza",
+          "TravelledDistance": 21474847
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Skoda",
+          "Model": "Fabia",
+          "TravelledDistance": 214747
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Prius",
+          "TravelledDistance": 92233775807
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "BMW",
+          "Model": "M6 E63",
+          "TravelledDistance": 92235807
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "Altima",
+          "TravelledDistance": 9223372775807
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Lamborghini",
+          "Model": "Diablo",
+          "TravelledDistance": 2147483647
+        },
+        "Discount": "PERCENT15"
+      }
+    ]
+  },
+  {
+    "Id": 24,
+    "Name": "Jimmy Grossi",
+    "BirthDate": "1986-07-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "Car": {
+          "Make": "Chevy",
+          "Model": "Impala",
+          "TravelledDistance": 214747
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "Rogue",
+          "TravelledDistance": 9223807
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Citroen",
+          "Model": "C5",
+          "TravelledDistance": 2183647
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Prius",
+          "TravelledDistance": 92233775807
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Seat",
+          "Model": "Ibiza",
+          "TravelledDistance": 21647
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Camry Hybrid",
+          "TravelledDistance": 214647
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Chevy",
+          "Model": "Cruze",
+          "TravelledDistance": 92775807
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Peugeot",
+          "Model": "206",
+          "TravelledDistance": 922775807
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Prius",
+          "TravelledDistance": 283647
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Chevy",
+          "Model": "Matiz",
+          "TravelledDistance": 922337203685807
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Ferrari",
+          "Model": "F40",
+          "TravelledDistance": 214647
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Yaris",
+          "TravelledDistance": 9207
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Corolla",
+          "TravelledDistance": 21477
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Mercedes",
+          "Model": "A 140",
+          "TravelledDistance": 92233754775807
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Chevy",
+          "Model": "Malibu",
+          "TravelledDistance": 922337775807
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Mercedes",
+          "Model": "W202",
+          "TravelledDistance": 92233754775807
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Chevy",
+          "Model": "Camaro",
+          "TravelledDistance": 21473647
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Chevy",
+          "Model": "Impala",
+          "TravelledDistance": 214747
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Corolla",
+          "TravelledDistance": 9223807
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Corolla",
+          "TravelledDistance": 92235807
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "BMW",
+          "Model": "X6 M",
+          "TravelledDistance": 922775807
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Chevy",
+          "Model": "Matiz",
+          "TravelledDistance": 922337203685807
+        },
+        "Discount": "PERCENT30"
+      }
+    ]
+  },
+  {
+    "Id": 12,
+    "Name": "Carole Witman",
+    "BirthDate": "1987-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": [
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Prius",
+          "TravelledDistance": 21477
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Mercedes",
+          "Model": "A 170 CDI",
+          "TravelledDistance": 9223775807
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Seat",
+          "Model": "Mii",
+          "TravelledDistance": 21447
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Chevy",
+          "Model": "Caprice",
+          "TravelledDistance": 2147483647
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Citroen",
+          "Model": "C5",
+          "TravelledDistance": 2183647
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Alfa Romeo",
+          "Model": "Giulietta",
+          "TravelledDistance": 2036854775807
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "BMW",
+          "Model": "1M Coupe",
+          "TravelledDistance": 2147
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Great Wall",
+          "Model": "H2",
+          "TravelledDistance": 21647
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Seat",
+          "Model": "Mii",
+          "TravelledDistance": 936854775807
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Renault",
+          "Model": "Captur",
+          "TravelledDistance": 9223807
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Renault",
+          "Model": "Alaskan",
+          "TravelledDistance": 2147483647
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Yaris",
+          "TravelledDistance": 21477
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Dacia",
+          "Model": "Logan",
+          "TravelledDistance": 21474647
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Lamborghini",
+          "Model": "Diablo",
+          "TravelledDistance": 283647
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Citroen",
+          "Model": "C1",
+          "TravelledDistance": 2147483647
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Chevy",
+          "Model": "Caprice",
+          "TravelledDistance": 9223372034775807
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Corolla",
+          "TravelledDistance": 9223807
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Ford",
+          "Model": "Taurus",
+          "TravelledDistance": 9223375807
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Ferrari",
+          "Model": "F430",
+          "TravelledDistance": 214647
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Great Wall",
+          "Model": "H8",
+          "TravelledDistance": 21447
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "BMW",
+          "Model": "X6 M",
+          "TravelledDistance": 922775807
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Lamborghini",
+          "Model": "Gallardo",
+          "TravelledDistance": 923372054775807
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "Rogue",
+          "TravelledDistance": 214647
+        },
+        "Discount": "PERCENT30"
+      }
+    ]
+  },
+  {
+    "Id": 13,
+    "Name": "Oren Perlman",
+    "BirthDate": "1988-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "Car": {
+          "Make": "Ford",
+          "Model": "Taurus",
+          "TravelledDistance": 9223375807
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Prius",
+          "TravelledDistance": 925807
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "Versa",
+          "TravelledDistance": 922775807
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Citroen",
+          "Model": "C5",
+          "TravelledDistance": 2183647
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "GT-R",
+          "TravelledDistance": 21473647
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "Altima",
+          "TravelledDistance": 2147447
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Seat",
+          "Model": "Toledo",
+          "TravelledDistance": 21473647
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Lamborghini",
+          "Model": "Murciélago",
+          "TravelledDistance": 2143647
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Dacia",
+          "Model": "Dokker",
+          "TravelledDistance": 2147647
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Citroen",
+          "Model": "C1",
+          "TravelledDistance": 924775807
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "Rogue",
+          "TravelledDistance": 214647
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Fiat",
+          "Model": "500L",
+          "TravelledDistance": 922337204775807
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Dacia",
+          "Model": "Dokker",
+          "TravelledDistance": 2147647
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Prius",
+          "TravelledDistance": 21477
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Corolla",
+          "TravelledDistance": 9223854775807
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Ferrari",
+          "Model": "275",
+          "TravelledDistance": 92854775807
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Ford",
+          "Model": "GT40",
+          "TravelledDistance": 9223377
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Ferrari",
+          "Model": "250 GTO",
+          "TravelledDistance": 213647
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "GT-R",
+          "TravelledDistance": 2147447
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Citroen",
+          "Model": "C1",
+          "TravelledDistance": 2147483647
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Ford",
+          "Model": "Pinto",
+          "TravelledDistance": 2147647
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Fiat",
+          "Model": "Freemont",
+          "TravelledDistance": 92233685477
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Rolls-Royce",
+          "Model": "Ghost",
+          "TravelledDistance": 21473647
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "GT-R",
+          "TravelledDistance": 21473647
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Camry Hybrid",
+          "TravelledDistance": 954775807
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "Altima",
+          "TravelledDistance": 214747
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Dacia",
+          "Model": "Dokker",
+          "TravelledDistance": 2147647
+        },
+        "Discount": "PERCENT0"
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "Name": "Natalie Poli",
+    "BirthDate": "1990-10-04T00:00",
+    "IsYoungDriver": false,
+    "Sales": [
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Tacoma",
+          "TravelledDistance": 2147
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Ford",
+          "Model": "Pinto",
+          "TravelledDistance": 9854775807
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Ford",
+          "Model": "Fiesta",
+          "TravelledDistance": 214647
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "BMW",
+          "Model": "X6 M",
+          "TravelledDistance": 2036854775807
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "BMW",
+          "Model": "M6 E63",
+          "TravelledDistance": 214747
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Dacia",
+          "Model": "Sandero",
+          "TravelledDistance": 2143647
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "BMW",
+          "Model": "X6 M",
+          "TravelledDistance": 2036854775807
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Chevy",
+          "Model": "Impala",
+          "TravelledDistance": 214747
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Mercedes",
+          "Model": "W210",
+          "TravelledDistance": 9223372036854775807
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Rolls-Royce",
+          "Model": "Phantom Drophead Coupé",
+          "TravelledDistance": 922336854775807
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Dacia",
+          "Model": "Sandero Stepway",
+          "TravelledDistance": 92233724775807
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Camry Hybrid",
+          "TravelledDistance": 214647
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Ferrari",
+          "Model": "Daytona",
+          "TravelledDistance": 922337275807
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Dacia",
+          "Model": "Logan",
+          "TravelledDistance": 9275807
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Alfa Romeo",
+          "Model": "75",
+          "TravelledDistance": 9223372775807
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Citroen",
+          "Model": "C3",
+          "TravelledDistance": 2147647
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Skoda",
+          "Model": "Citigo",
+          "TravelledDistance": 214647
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "BMW",
+          "Model": "F25",
+          "TravelledDistance": 9223372036854775807
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Mercedes",
+          "Model": "W203",
+          "TravelledDistance": 5807
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Seat",
+          "Model": "Mii",
+          "TravelledDistance": 214783647
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Mercedes",
+          "Model": "W212",
+          "TravelledDistance": 2147647
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Peugeot",
+          "Model": "308",
+          "TravelledDistance": 775807
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Opel",
+          "Model": "Omega",
+          "TravelledDistance": 2147483647
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Citroen",
+          "Model": "C8",
+          "TravelledDistance": 83647
+        },
+        "Discount": "PERCENT30"
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "Name": "Marcelle Griego",
+    "BirthDate": "1990-10-04T00:00",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "Car": {
+          "Make": "Ford",
+          "Model": "Fiesta",
+          "TravelledDistance": 214647
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Citroen",
+          "Model": "C8",
+          "TravelledDistance": 92236854775807
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Opel",
+          "Model": "Vectra",
+          "TravelledDistance": 9223372854775807
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Ferrari",
+          "Model": "250 GTO",
+          "TravelledDistance": 213647
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Ford",
+          "Model": "Fiesta",
+          "TravelledDistance": 214647
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Chevy",
+          "Model": "Caprice",
+          "TravelledDistance": 9223372034775807
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "Altima",
+          "TravelledDistance": 2147483647
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "GT-R",
+          "TravelledDistance": 954775807
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Peugeot",
+          "Model": "405",
+          "TravelledDistance": 922854775807
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "BMW",
+          "Model": "X6 M",
+          "TravelledDistance": 483647
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Chevy",
+          "Model": "Malibu",
+          "TravelledDistance": 92233854775807
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "Altima",
+          "TravelledDistance": 214747
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Alfa Romeo",
+          "Model": "Giulietta",
+          "TravelledDistance": 922337203685807
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Corolla",
+          "TravelledDistance": 975807
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Peugeot",
+          "Model": "308",
+          "TravelledDistance": 2147483647
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Opel",
+          "Model": "Astra",
+          "TravelledDistance": 922337203685807
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Camry Hybrid",
+          "TravelledDistance": 92275807
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "Altima",
+          "TravelledDistance": 214647
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Ford",
+          "Model": "Pinto",
+          "TravelledDistance": 2147647
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Skoda",
+          "Model": "Citigo",
+          "TravelledDistance": 92233854775807
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Renault",
+          "Model": "Clio IV",
+          "TravelledDistance": 92234775807
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Citroen",
+          "Model": "C1",
+          "TravelledDistance": 9854775807
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Citroen",
+          "Model": "C1",
+          "TravelledDistance": 2483647
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Chevy",
+          "Model": "Matiz",
+          "TravelledDistance": 922337203685807
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Rolls-Royce",
+          "Model": "Phantom Drophead Coupé",
+          "TravelledDistance": 922336854775807
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Citroen",
+          "Model": "C1",
+          "TravelledDistance": 9223775807
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Dacia",
+          "Model": "Sandero",
+          "TravelledDistance": 922337254775807
+        },
+        "Discount": "PERCENT30"
+      }
+    ]
+  },
+  {
+    "Id": 19,
+    "Name": "Yvonne Mccalla",
+    "BirthDate": "1992-03-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "Car": {
+          "Make": "Skoda",
+          "Model": "Citigo",
+          "TravelledDistance": 214747
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Peugeot",
+          "Model": "306",
+          "TravelledDistance": 2147483647
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Fiat",
+          "Model": "500L",
+          "TravelledDistance": 21474847
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Mercedes",
+          "Model": "A 160 CDI",
+          "TravelledDistance": 4775807
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Skoda",
+          "Model": "Rapid Spaceback",
+          "TravelledDistance": 685477580
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Tacoma",
+          "TravelledDistance": 922337807
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Seat",
+          "Model": "Toledo",
+          "TravelledDistance": 21447
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Opel",
+          "Model": "Kadet",
+          "TravelledDistance": 21474847
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Seat",
+          "Model": "Toledo",
+          "TravelledDistance": 21473647
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "370Z",
+          "TravelledDistance": 922775807
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Citroen",
+          "Model": "C4",
+          "TravelledDistance": 92236854775807
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Ford",
+          "Model": "Pinto",
+          "TravelledDistance": 2147647
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Seat",
+          "Model": "Ibiza",
+          "TravelledDistance": 92234775807
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Dacia",
+          "Model": "Logan",
+          "TravelledDistance": 9036854775807
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Ford",
+          "Model": "Torino",
+          "TravelledDistance": 2147
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Prius",
+          "TravelledDistance": 922337807
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Rolls-Royce",
+          "Model": "Ghost",
+          "TravelledDistance": 214747
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "BMW",
+          "Model": "E67",
+          "TravelledDistance": 21447
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Ferrari",
+          "Model": "F40",
+          "TravelledDistance": 214647
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Ford",
+          "Model": "Pinto",
+          "TravelledDistance": 922337807
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Fiat",
+          "Model": "Panda",
+          "TravelledDistance": 92233854775807
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Peugeot",
+          "Model": "405",
+          "TravelledDistance": 922854775807
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Opel",
+          "Model": "Omega",
+          "TravelledDistance": 9223336854775807
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Citroen",
+          "Model": "C5",
+          "TravelledDistance": 2183647
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Alfa Romeo",
+          "Model": "AR51",
+          "TravelledDistance": 2147483647
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "Altima",
+          "TravelledDistance": 9223372775807
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Fiat",
+          "Model": "Panda",
+          "TravelledDistance": 2147487
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Alfa Romeo",
+          "Model": "AR51",
+          "TravelledDistance": 2147483647
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Ferrari",
+          "Model": "250 GTO",
+          "TravelledDistance": 214747
+        },
+        "Discount": "PERCENT10"
+      }
+    ]
+  },
+  {
+    "Id": 30,
+    "Name": "Ann Mcenaney",
+    "BirthDate": "1992-03-02T00:00",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "GT-R",
+          "TravelledDistance": 96854775807
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Alfa Romeo",
+          "Model": "Giulia",
+          "TravelledDistance": 214647
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Opel",
+          "Model": "Insignia",
+          "TravelledDistance": 9223372036854775807
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "BMW",
+          "Model": "M5 F10",
+          "TravelledDistance": 10
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Fiat",
+          "Model": "500L",
+          "TravelledDistance": 922337203675807
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "BMW",
+          "Model": "F20",
+          "TravelledDistance": 21447
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "GT-R",
+          "TravelledDistance": 954775807
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Skoda",
+          "Model": "Rapid Spaceback",
+          "TravelledDistance": 685477580
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Great Wall",
+          "Model": "H8",
+          "TravelledDistance": 21447
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "Rogue",
+          "TravelledDistance": 9223807
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "GT-R",
+          "TravelledDistance": 21473647
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Peugeot",
+          "Model": "206",
+          "TravelledDistance": 214748347
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Skoda",
+          "Model": "Rapid",
+          "TravelledDistance": 2147447
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Ferrari",
+          "Model": "275",
+          "TravelledDistance": 92854775807
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Mercedes",
+          "Model": "A 160 CDI",
+          "TravelledDistance": 4775807
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Citroen",
+          "Model": "C4",
+          "TravelledDistance": 213647
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Corolla",
+          "TravelledDistance": 975807
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Peugeot",
+          "Model": "308",
+          "TravelledDistance": 23647
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Mercedes",
+          "Model": "W124",
+          "TravelledDistance": 2147647
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Skoda",
+          "Model": "Citigo",
+          "TravelledDistance": 214647
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "Altima",
+          "TravelledDistance": 214647
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Skoda",
+          "Model": "Fabia",
+          "TravelledDistance": 92233720368807
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "Altima",
+          "TravelledDistance": 214647
+        },
+        "Discount": "PERCENT0"
+      }
+    ]
+  },
+  {
+    "Id": 21,
+    "Name": "Cinthia Lasala",
+    "BirthDate": "1992-11-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Tacoma",
+          "TravelledDistance": 96854775807
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Peugeot",
+          "Model": "308",
+          "TravelledDistance": 775807
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Dacia",
+          "Model": "Logan",
+          "TravelledDistance": 21474647
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Citroen",
+          "Model": "C5",
+          "TravelledDistance": 922337204775807
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "BMW",
+          "Model": "E67",
+          "TravelledDistance": 21447
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "Altima",
+          "TravelledDistance": 2147483647
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Ford",
+          "Model": "Torino",
+          "TravelledDistance": 2147
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Citroen",
+          "Model": "C4",
+          "TravelledDistance": 213647
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Mercedes",
+          "Model": "A 140",
+          "TravelledDistance": 92233754775807
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Citroen",
+          "Model": "C1",
+          "TravelledDistance": 92236854775807
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Seat",
+          "Model": "Toledo",
+          "TravelledDistance": 21483647
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Corolla",
+          "TravelledDistance": 92235807
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Fiat",
+          "Model": "Freemont",
+          "TravelledDistance": 214647
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Fiat",
+          "Model": "500 (2007) Abarth 695 Tributo Maserati",
+          "TravelledDistance": 214747
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "BMW",
+          "Model": "X6 M",
+          "TravelledDistance": 2036854775807
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Fiat",
+          "Model": "Freemont",
+          "TravelledDistance": 214647
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Ferrari",
+          "Model": "F40",
+          "TravelledDistance": 21447
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Ford",
+          "Model": "Torino",
+          "TravelledDistance": 922337807
+        },
+        "Discount": "PERCENT15"
+      }
+    ]
+  },
+  {
+    "Id": 1,
+    "Name": "Emmitt Benally",
+    "BirthDate": "1993-11-20T00:00",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "Car": {
+          "Make": "Dacia",
+          "Model": "Logan",
+          "TravelledDistance": 9036854775807
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "GT-R",
+          "TravelledDistance": 21477
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Peugeot",
+          "Model": "206",
+          "TravelledDistance": 214647
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Corolla",
+          "TravelledDistance": 2147
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Chevy",
+          "Model": "Caprice",
+          "TravelledDistance": 2143647
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Skoda",
+          "Model": "Fabia",
+          "TravelledDistance": 9223372036875807
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "BMW",
+          "Model": "M5 F10",
+          "TravelledDistance": 10
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Fiat",
+          "Model": "Panda 4x4 Antarctica",
+          "TravelledDistance": 21483647
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Corolla",
+          "TravelledDistance": 9223807
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Renault",
+          "Model": "Alaskan",
+          "TravelledDistance": 92233720375807
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Prius",
+          "TravelledDistance": 92233775807
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Ferrari",
+          "Model": "250 GTO",
+          "TravelledDistance": 213647
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Mercedes",
+          "Model": "W124",
+          "TravelledDistance": 922336854775807
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Ford",
+          "Model": "Torino",
+          "TravelledDistance": 922337807
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Fiat",
+          "Model": "500 (2007) Abarth 695 Tributo Maserati",
+          "TravelledDistance": 92236854775807
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Seat",
+          "Model": "Toledo",
+          "TravelledDistance": 21447
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Ford",
+          "Model": "Torino",
+          "TravelledDistance": 922337807
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Tacoma",
+          "TravelledDistance": 96854775807
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Chevy",
+          "Model": "Impala",
+          "TravelledDistance": 214747
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Chevy",
+          "Model": "Cruze",
+          "TravelledDistance": 92775807
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Alfa Romeo",
+          "Model": "75",
+          "TravelledDistance": 9775807
+        },
+        "Discount": "PERCENT5"
+      }
+    ]
+  },
+  {
+    "Id": 20,
+    "Name": "Nisha Markwell",
+    "BirthDate": "1994-04-04T00:00",
+    "IsYoungDriver": false,
+    "Sales": [
+      {
+        "Car": {
+          "Make": "Lamborghini",
+          "Model": "Gallardo",
+          "TravelledDistance": 923372054775807
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Rolls-Royce",
+          "Model": "Phantom",
+          "TravelledDistance": 922337254775807
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Renault",
+          "Model": "Espace",
+          "TravelledDistance": 2147487
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Opel",
+          "Model": "Insignia",
+          "TravelledDistance": 9223372036854775807
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "Altima",
+          "TravelledDistance": 213647
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Citroen",
+          "Model": "C8",
+          "TravelledDistance": 83647
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Seat",
+          "Model": "Mii",
+          "TravelledDistance": 936854775807
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Mercedes",
+          "Model": "W212",
+          "TravelledDistance": 927254775807
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Opel",
+          "Model": "Astra",
+          "TravelledDistance": 2147483647
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Citroen",
+          "Model": "C1",
+          "TravelledDistance": 924775807
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "BMW",
+          "Model": "E88",
+          "TravelledDistance": 200000
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Ferrari",
+          "Model": "275",
+          "TravelledDistance": 2147647
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Citroen",
+          "Model": "C1",
+          "TravelledDistance": 2147483647
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Chevy",
+          "Model": "Caprice",
+          "TravelledDistance": 2147647
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Seat",
+          "Model": "Ibiza",
+          "TravelledDistance": 21474847
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Dacia",
+          "Model": "Sandero Stepway",
+          "TravelledDistance": 922337807
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Skoda",
+          "Model": "Rapid Spaceback",
+          "TravelledDistance": 474
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Renault",
+          "Model": "Clio IV",
+          "TravelledDistance": 2147483647
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Fiat",
+          "Model": "500L",
+          "TravelledDistance": 21474847
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Fiat",
+          "Model": "Panda 4x4 Antarctica",
+          "TravelledDistance": 21483647
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Rolls-Royce",
+          "Model": "Phantom",
+          "TravelledDistance": 922337254775807
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Chevy",
+          "Model": "Camaro",
+          "TravelledDistance": 2147483647
+        },
+        "Discount": "PERCENT10"
+      }
+    ]
+  },
+  {
+    "Id": 23,
+    "Name": "Faustina Burgher",
+    "BirthDate": "1994-06-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": [
+      {
+        "Car": {
+          "Make": "Fiat",
+          "Model": "500L",
+          "TravelledDistance": 92233754775807
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Skoda",
+          "Model": "Fabia",
+          "TravelledDistance": 922337203775807
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Ford",
+          "Model": "Pinto",
+          "TravelledDistance": 9223807
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Seat",
+          "Model": "Toledo",
+          "TravelledDistance": 21473647
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Fiat",
+          "Model": "Panda",
+          "TravelledDistance": 21474837
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Opel",
+          "Model": "Astra",
+          "TravelledDistance": 922336854775807
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "BMW",
+          "Model": "F20",
+          "TravelledDistance": 975807
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Dacia",
+          "Model": "Duster",
+          "TravelledDistance": 922375807
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Prius",
+          "TravelledDistance": 214747
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "GT-R",
+          "TravelledDistance": 2147483647
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Seat",
+          "Model": "Toledo",
+          "TravelledDistance": 2147647
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Ferrari",
+          "Model": "F430",
+          "TravelledDistance": 214647
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "BMW",
+          "Model": "F20",
+          "TravelledDistance": 975807
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Dacia",
+          "Model": "Logan",
+          "TravelledDistance": 9275807
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Opel",
+          "Model": "Omega",
+          "TravelledDistance": 2147483647
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Ford",
+          "Model": "Pinto",
+          "TravelledDistance": 9223807
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Tacoma",
+          "TravelledDistance": 2147
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Ferrari",
+          "Model": "250 GTO",
+          "TravelledDistance": 2183647
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Ford",
+          "Model": "Fiesta",
+          "TravelledDistance": 922337775807
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Ford",
+          "Model": "GT40",
+          "TravelledDistance": 9223377
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Ferrari",
+          "Model": "250 GTO",
+          "TravelledDistance": 213647
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Seat",
+          "Model": "Ibiza",
+          "TravelledDistance": 21647
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Seat",
+          "Model": "Mii",
+          "TravelledDistance": 2147447
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Skoda",
+          "Model": "Citigo",
+          "TravelledDistance": 2183647
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Mercedes",
+          "Model": "W202",
+          "TravelledDistance": 92233754775807
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Peugeot",
+          "Model": "206",
+          "TravelledDistance": 922036854775807
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Fiat",
+          "Model": "Panda 4x4",
+          "TravelledDistance": 92233736854775807
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Citroen",
+          "Model": "C3",
+          "TravelledDistance": 2147647
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Skoda",
+          "Model": "Fabia",
+          "TravelledDistance": 214747
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Camry Hybrid",
+          "TravelledDistance": 214647
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Camry Hybrid",
+          "TravelledDistance": 92275807
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Chevy",
+          "Model": "Caprice",
+          "TravelledDistance": 2147647
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "Rogue",
+          "TravelledDistance": 214647
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Dacia",
+          "Model": "Sandero",
+          "TravelledDistance": 922337254775807
+        },
+        "Discount": "PERCENT0"
+      }
+    ]
+  },
+  {
+    "Id": 18,
+    "Name": "Taina Achenbach",
+    "BirthDate": "1994-10-01T00:00",
+    "IsYoungDriver": false,
+    "Sales": [
+      {
+        "Car": {
+          "Make": "BMW",
+          "Model": "F04",
+          "TravelledDistance": 2143647
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "GT-R",
+          "TravelledDistance": 2147447
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Prius",
+          "TravelledDistance": 214747
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Ford",
+          "Model": "Pinto",
+          "TravelledDistance": 922337807
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Citroen",
+          "Model": "C1",
+          "TravelledDistance": 922337854775807
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Alfa Romeo",
+          "Model": "Giulietta",
+          "TravelledDistance": 2036854775807
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "BMW",
+          "Model": "F20",
+          "TravelledDistance": 21447
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Camry Hybrid",
+          "TravelledDistance": 954775807
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "BMW",
+          "Model": "M6 E63",
+          "TravelledDistance": 214747
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "GT-R",
+          "TravelledDistance": 2147483647
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Citroen",
+          "Model": "C5",
+          "TravelledDistance": 922337204775807
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Rolls-Royce",
+          "Model": "Wraith",
+          "TravelledDistance": 21647
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Opel",
+          "Model": "Corsa",
+          "TravelledDistance": 21474847
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Dacia",
+          "Model": "Dokker",
+          "TravelledDistance": 2147447
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Seat",
+          "Model": "Mii",
+          "TravelledDistance": 214783647
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Corolla",
+          "TravelledDistance": 2147
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Fiat",
+          "Model": "Panda 4x4",
+          "TravelledDistance": 2147447
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "BMW",
+          "Model": "F04",
+          "TravelledDistance": 483647
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "GT-R",
+          "TravelledDistance": 21477
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Camry Hybrid",
+          "TravelledDistance": 214647
+        },
+        "Discount": "PERCENT40"
+      }
+    ]
+  },
+  {
+    "Id": 9,
+    "Name": "Johnette Derryberry",
+    "BirthDate": "1995-10-01T00:00",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "Car": {
+          "Make": "Ferrari",
+          "Model": "275",
+          "TravelledDistance": 92854775807
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "BMW",
+          "Model": "M6 E63",
+          "TravelledDistance": 2147
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Citroen",
+          "Model": "C4",
+          "TravelledDistance": 2147487
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Fiat",
+          "Model": "500L",
+          "TravelledDistance": 922337203675807
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Tacoma",
+          "TravelledDistance": 927
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "GT-R",
+          "TravelledDistance": 2143647
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Ford",
+          "Model": "Ranger",
+          "TravelledDistance": 92233775807
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Tacoma",
+          "TravelledDistance": 21474647
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Ferrari",
+          "Model": "250 GTO",
+          "TravelledDistance": 214747
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Rolls-Royce",
+          "Model": "Phantom Drophead Coupé",
+          "TravelledDistance": 922336854775807
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "BMW",
+          "Model": "F25",
+          "TravelledDistance": 9223372036854775807
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Seat",
+          "Model": "Ibiza",
+          "TravelledDistance": 92234775807
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "GT-R",
+          "TravelledDistance": 2143647
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Tacoma",
+          "TravelledDistance": 9225807
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "Versa",
+          "TravelledDistance": 2143647
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Skoda",
+          "Model": "Fabia",
+          "TravelledDistance": 922337203775807
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "BMW",
+          "Model": "M Roadster E85",
+          "TravelledDistance": 92233720365807
+        },
+        "Discount": "PERCENT15"
+      }
+    ]
+  },
+  {
+    "Id": 22,
+    "Name": "Daniele Zarate",
+    "BirthDate": "1995-10-05T00:00",
+    "IsYoungDriver": false,
+    "Sales": [
+      {
+        "Car": {
+          "Make": "Great Wall",
+          "Model": "Haval M4",
+          "TravelledDistance": 213647
+        },
+        "Discount": "PERCENT30"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Prius",
+          "TravelledDistance": 21477
+        },
+        "Discount": "PERCENT0"
+      },
+      {
+        "Car": {
+          "Make": "Peugeot",
+          "Model": "407",
+          "TravelledDistance": 922036854775807
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Ford",
+          "Model": "Torino",
+          "TravelledDistance": 2147
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Prius",
+          "TravelledDistance": 922337203685
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Tacoma",
+          "TravelledDistance": 927
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Seat",
+          "Model": "Toledo",
+          "TravelledDistance": 2147447
+        },
+        "Discount": "PERCENT40"
+      },
+      {
+        "Car": {
+          "Make": "Peugeot",
+          "Model": "407",
+          "TravelledDistance": 854775807
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Alfa Romeo",
+          "Model": "Giulietta",
+          "TravelledDistance": 922337203685807
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "GT-R",
+          "TravelledDistance": 2147647
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Opel",
+          "Model": "Vectra",
+          "TravelledDistance": 2147483647
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Yaris",
+          "TravelledDistance": 94775807
+        },
+        "Discount": "PERCENT15"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Tacoma",
+          "TravelledDistance": 2147
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Nissan",
+          "Model": "Versa",
+          "TravelledDistance": 9223775807
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Opel",
+          "Model": "Vectra",
+          "TravelledDistance": 9223372854775807
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Citroen",
+          "Model": "Elysée",
+          "TravelledDistance": 922354775807
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Citroen",
+          "Model": "C8",
+          "TravelledDistance": 2147447
+        },
+        "Discount": "PERCENT20"
+      },
+      {
+        "Car": {
+          "Make": "Ferrari",
+          "Model": "250 GTO",
+          "TravelledDistance": 214747
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Camry Hybrid",
+          "TravelledDistance": 92275807
+        },
+        "Discount": "PERCENT50"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Tacoma",
+          "TravelledDistance": 96854775807
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Fiat",
+          "Model": "500L",
+          "TravelledDistance": 92233754775807
+        },
+        "Discount": "PERCENT5"
+      },
+      {
+        "Car": {
+          "Make": "Ford",
+          "Model": "Fiesta",
+          "TravelledDistance": 214647
+        },
+        "Discount": "PERCENT10"
+      },
+      {
+        "Car": {
+          "Make": "Toyota",
+          "Model": "Prius",
+          "TravelledDistance": 21477
+        },
+        "Discount": "PERCENT30"
+      }
+    ]
+  }
+]

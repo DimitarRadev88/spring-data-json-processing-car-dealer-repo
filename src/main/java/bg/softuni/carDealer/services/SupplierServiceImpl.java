@@ -1,6 +1,7 @@
 package bg.softuni.carDealer.services;
 
-import bg.softuni.carDealer.dots.SupplierImportDto;
+import bg.softuni.carDealer.dtos.SupplierImportDto;
+import bg.softuni.carDealer.dtos.SupplierWithIdNameAndPartsCountDto;
 import bg.softuni.carDealer.models.Supplier;
 import bg.softuni.carDealer.repositories.SupplierRepository;
 import bg.softuni.carDealer.services.interfaces.SupplierService;
@@ -30,5 +31,14 @@ public class SupplierServiceImpl implements SupplierService {
                 .toList();
 
         supplierRepository.saveAll(list);
+    }
+
+    @Override
+    public List<SupplierWithIdNameAndPartsCountDto> getAllLocalSuppliers() {
+        List<Supplier> allLocalSuppliers = supplierRepository.findAllByImporterFalse();
+
+        return allLocalSuppliers.stream()
+                .map(s -> modelMapper.map(s, SupplierWithIdNameAndPartsCountDto.class))
+                .toList();
     }
 }

@@ -1,6 +1,9 @@
 package bg.softuni.carDealer.services;
 
-import bg.softuni.carDealer.dots.CarImportDto;
+import bg.softuni.carDealer.dtos.CarImportDto;
+import bg.softuni.carDealer.dtos.CarWithIdMakeModelTravelDistanceDto;
+import bg.softuni.carDealer.dtos.CarWithPartsListDto;
+import bg.softuni.carDealer.dtos.CarWrapper;
 import bg.softuni.carDealer.models.Car;
 import bg.softuni.carDealer.models.Part;
 import bg.softuni.carDealer.repositories.CarRepository;
@@ -10,12 +13,12 @@ import org.modelmapper.ModelMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import java.math.BigDecimal;
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 import java.util.concurrent.ThreadLocalRandom;
-import java.util.stream.IntStream;
 
 @Service
 public class CarServiceImpl implements CarService {
@@ -44,6 +47,15 @@ public class CarServiceImpl implements CarService {
         carRepository.saveAll(list);
     }
 
+    @Override
+    public List<CarWithIdMakeModelTravelDistanceDto> getAllToyotaCars() {
+        return carRepository
+                .findAllByMakeEqualsOrderByModelAscTravelledDistanceDesc("Toyota")
+                .stream()
+                .map(c -> modelMapper.map(c, CarWithIdMakeModelTravelDistanceDto.class))
+                .toList();
+    }
+
     private Set<Part> getRandomParts() {
         int count = ThreadLocalRandom.current().nextInt(3) + 3;
 
@@ -56,4 +68,22 @@ public class CarServiceImpl implements CarService {
 
         return parts;
     }
+
+    @Override
+    public List<CarWrapper> getAllCarsWithParts() {
+
+        List<CarWrapper> cars = carRepository
+                .findAllWithParts()
+                .stream()
+                .map(c -> {
+                    CarWrapper wrapper = new CarWrapper();
+                    wrapper.setCar(modelMapper.map(c, CarWithPartsListDto.class));
+                    return wrapper;
+                })
+                .toList();
+
+        return cars;
+    }
+
+
 }

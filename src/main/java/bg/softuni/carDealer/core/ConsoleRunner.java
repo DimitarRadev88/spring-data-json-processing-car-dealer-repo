@@ -1,9 +1,6 @@
 package bg.softuni.carDealer.core;
 
-import bg.softuni.carDealer.dots.CarImportDto;
-import bg.softuni.carDealer.dots.CustomerImportDto;
-import bg.softuni.carDealer.dots.PartImportDto;
-import bg.softuni.carDealer.dots.SupplierImportDto;
+import bg.softuni.carDealer.dtos.*;
 import bg.softuni.carDealer.services.interfaces.*;
 import com.google.gson.Gson;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -13,11 +10,13 @@ import org.springframework.stereotype.Component;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
+import java.util.List;
 
 @Component
 public class ConsoleRunner implements CommandLineRunner {
 
     private static final String JSON_IMPORT_FOLDER_PATH = "src/main/resources/jsonFiles/input/";
+    private static final String JSON_EXPORT_FOLDER_PATH = "src/main/resources/jsonFiles/output/";
     private static final String SUPPLIERS_JSON_NAME = "suppliers.json";
     private static final String CARS_JSON_NAME = "cars.json";
     private static final String PARTS_JSON_NAME = "parts.json";
@@ -42,6 +41,60 @@ public class ConsoleRunner implements CommandLineRunner {
     @Override
     public void run(String... args) throws Exception {
         importData();
+        orderedCustomers();
+        carsFromMakeToyota();
+        localSuppliers();
+        carsWithTheirListOfParts();
+        totalSalesByCustomer();
+        salesWithAppliedDiscount();
+    }
+
+    private void salesWithAppliedDiscount() throws IOException {
+        List<SaleWithDiscountInfoDto> allSalesWithDiscountInfo = saleService.getAllSalesWithDiscountInfo();
+
+        String json = gson.toJson(allSalesWithDiscountInfo);
+
+        Files.writeString(Path.of(JSON_EXPORT_FOLDER_PATH + "sales-discounts.json"), json);
+    }
+
+    private void totalSalesByCustomer() throws IOException {
+        List<CustomerWithTotalSalesDto> customers = customerService.getAllCustomersWithAtLeastOneCarSale();
+
+        String json = gson.toJson(customers);
+
+        Files.writeString(Path.of(JSON_EXPORT_FOLDER_PATH + "customers-total-sales.json"), json);
+    }
+
+    private void carsWithTheirListOfParts() throws IOException {
+        List<CarWrapper> carDtos = carService.getAllCarsWithParts();
+
+        String json = gson.toJson(carDtos);
+
+        Files.writeString(Path.of(JSON_EXPORT_FOLDER_PATH + "cars-and-parts.json"), json);
+    }
+
+    private void localSuppliers() throws IOException {
+        List<SupplierWithIdNameAndPartsCountDto> supplierDtos = supplierService.getAllLocalSuppliers();
+
+        String json = gson.toJson(supplierDtos);
+
+        Files.writeString(Path.of(JSON_EXPORT_FOLDER_PATH + "local-suppliers.json"), json);
+    }
+
+    private void carsFromMakeToyota() throws IOException {
+        List<CarWithIdMakeModelTravelDistanceDto> toyotaCars = carService.getAllToyotaCars();
+
+        String json = gson.toJson(toyotaCars);
+
+        Files.writeString(Path.of(JSON_EXPORT_FOLDER_PATH + "toyota-cars.json"), json);
+    }
+
+    private void orderedCustomers() throws IOException {
+        List<CustomerExportDto> dtos = customerService.getAllCustomersSortedByBirthDate();
+
+        String json = gson.toJson(dtos);
+
+        Files.writeString(Path.of(JSON_EXPORT_FOLDER_PATH + "ordered-customers.json"), json);
     }
 
     private void importData() throws IOException {
@@ -49,6 +102,11 @@ public class ConsoleRunner implements CommandLineRunner {
         importParts();
         importCars();
         importCustomers();
+        importSales();
+    }
+
+    private void importSales() {
+        saleService.generateSales();
     }
 
     private void importCustomers() throws IOException {

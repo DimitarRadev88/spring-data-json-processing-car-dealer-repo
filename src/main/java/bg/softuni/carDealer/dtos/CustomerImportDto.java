@@ -1,8 +1,6 @@
-package bg.softuni.carDealer.dots;
+package bg.softuni.carDealer.dtos;
 
 import com.google.gson.annotations.Expose;
-
-import java.time.LocalDate;
 
 public class CustomerImportDto {
 
